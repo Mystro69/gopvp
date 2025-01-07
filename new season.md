@@ -9,6 +9,14 @@
 - **FPS boost**: Implement optimizations to improve performance and FPS.
 - **Remove unnecessary zones**: Identify and remove zones that don’t add significant value to gameplay.
 - **Easter eggs**: Add hidden Easter eggs for players to discover, enhancing the fun and exploratory aspect of the game.
+- **Giant Zombie Event** Add new event which consists on a giant ped appearing in a new zone called **Death Zone** Where everyone will go fight this zombie and will give amazing rewards rewarding on the damage you do to this pes! also this zombie will shoot rockets and kill his enemies!
+- **New Gta Weapons Meta** the old metas are bit boring, maybe we can bring new gun **Railgun** which will bump players and ammo will be expensive, can bump players standing on deluxo on top of you!
+- **Deluxo Trick 1v1** Duel with weapons in gamble, example 1v1 where you bet Guns [1v1 deluxo trick where you bet awp winner get 2 awp (his awp and enemy awp)]
+- **Lobby option** Lobby where you choose modality you want to choose. **GOPVP BACK??**
+- **Gun Game** Gun game is always funny, we can make a gun game where you will be able to playe every 1h for example and winner gets some event coin which will be able to spend in a new shop with exclusive items.
+- **New Add-On PVP Cars?** revolter shit and those cars are so typical and boring maybe we should bring new cars none has in their server
+- **Havok Back** We should add new helis too that none has in their servers
+  
 
 ---
 
