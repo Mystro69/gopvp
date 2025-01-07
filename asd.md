@@ -1,12 +1,10 @@
----
-
 ## In-Game Updates
 - **New server logos**: I’ll handle this (except the one in the server list – it looks great).
 - **S5 economy**: Updates to the economy for Season 5.
 - **New item icons**: Updated visuals for item icons.
 - **New loading screen logo & sound**: A fresh logo and sound for the loading screen.
 - **Safezones remake**: Max of 2-3 zones (focus on the best ones like Vinewood, IKEA, etc.).
-- **Parking lot fight**: Introduce new dynamics or rules for parking lot fights.
+- **Parking lot fight**
 - **Vote for Trickzone removal**: Some staff members have mentioned they don't like it.
 
 ---
@@ -17,7 +15,7 @@
 - **Too many unnecessary roles**: Clean up and streamline the roles in Discord.
 
 ### Discord Hierarchy:
-1. **Project Manager**: Oversees the overall project.
+1. **Project Manager**:
 2. **Staff Manager**: Manages staff members. Each manager should have a clear responsibility:
    - **Check ban logs**: Investigate potentially corrupted bans.
    - **Handle cheat checks**: Review potential cheating incidents.
@@ -35,12 +33,12 @@
 6. **Streamer**: Designated role for streamers.
 7. **Gold**: Role for Gold-tier members.
 8. **Diamond**: Role for Diamond-tier members.
-9. **Language roles**: For players who speak different languages.
+9. **Language roles**
 
 ---
 
 ### Changes to Implement:
-- **🔨 role**: This role should only allow staff to spectate and send private messages.
+- **🔨 role**: Low in-game role should only allow staff to spectate and send private messages.
 - **Remove unnecessary logos**: The "▲" logo and [DK/ENG] should be removed.
 - **Ban policy update**: Bans should last one week unless there's 100% proof of a player cheating.
 - **Diamond and Gold permissions**: Add Diamond and Gold tier permissions to Discord.
