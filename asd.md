@@ -8,6 +8,7 @@
 - **Vote for Trickzone removal**: Some staff members have mentioned they don't like it.
 - **FPS boost**: Implement optimizations to improve performance and FPS.
 - **Remove unnecessary zones**: Identify and remove zones that don’t add significant value to gameplay.
+- **Easter eggs**: Add hidden Easter eggs for players to discover, enhancing the fun and exploratory aspect of the game.
 
 ---
 
