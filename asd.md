@@ -6,6 +6,8 @@
 - **Safezones remake**: Max of 2-3 zones (focus on the best ones like Vinewood, IKEA, etc.).
 - **Parking lot fight**
 - **Vote for Trickzone removal**: Some staff members have mentioned they don't like it.
+- **FPS boost**: Implement optimizations to improve performance and FPS.
+- **Remove unnecessary zones**: Identify and remove zones that don’t add significant value to gameplay.
 
 ---
 
